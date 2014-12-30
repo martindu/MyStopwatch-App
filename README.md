@@ -1,3 +1,3 @@
 MyStopwatch-App
 ===============
-It is a Stopwatch made in Swift in iOS8. It is ppsecifically designed for iPhone 6 setting as of now
+It is a Stopwatch made in Swift Language (iOS 8). It is specifically designed as per iPhone 6 setting as of now
