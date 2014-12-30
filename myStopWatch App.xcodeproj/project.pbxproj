@@ -13,6 +13,7 @@
 		8EC532A61A5226710095C81B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EC532A51A5226710095C81B /* Images.xcassets */; };
 		8EC532A91A5226710095C81B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8EC532A71A5226710095C81B /* LaunchScreen.xib */; };
 		8EC532B51A5226710095C81B /* myStopWatch_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EC532B41A5226710095C81B /* myStopWatch_AppTests.swift */; };
+		8EC532BF1A5245960095C81B /* clock.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8EC532BE1A5245960095C81B /* clock.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8EC532AE1A5226710095C81B /* myStopWatch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "myStopWatch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EC532B31A5226710095C81B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8EC532B41A5226710095C81B /* myStopWatch_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myStopWatch_AppTests.swift; sourceTree = "<group>"; };
+		8EC532BE1A5245960095C81B /* clock.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = clock.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				8EC5329E1A5226710095C81B /* AppDelegate.swift */,
 				8EC532A01A5226710095C81B /* ViewController.swift */,
 				8EC532A21A5226710095C81B /* Main.storyboard */,
+				8EC532BE1A5245960095C81B /* clock.jpeg */,
 				8EC532A51A5226710095C81B /* Images.xcassets */,
 				8EC532A71A5226710095C81B /* LaunchScreen.xib */,
 				8EC5329C1A5226710095C81B /* Supporting Files */,
@@ -194,6 +197,7 @@
 			files = (
 				8EC532A41A5226710095C81B /* Main.storyboard in Resources */,
 				8EC532A91A5226710095C81B /* LaunchScreen.xib in Resources */,
+				8EC532BF1A5245960095C81B /* clock.jpeg in Resources */,
 				8EC532A61A5226710095C81B /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
